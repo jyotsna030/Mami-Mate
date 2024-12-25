@@ -156,7 +156,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ## **Contact**  
 For queries or support, reach out to:  
 - **Author:** Jyotsna Shrivastava  
-- **Email:** [your.email@example.com](jyotsnas0306@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jyotsna-shrivastava-78b5192b2)  
+- **Email:** [Gmail](@jyotsnas0306@gmail.com)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jyotsna-shrivastava-78b5192b2)  
 
 
