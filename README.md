@@ -39,16 +39,16 @@ MamiMate is a feature-rich mobile application built to enhance the pregnancy jou
 Below are some visuals showcasing MamiMate’s interface and functionality:  
 
 1. **Home Screen**  
-   ![Home Screen](./images/home_screen.png)  
+   ![Home Screen](https://github.com/jyotsna030/Mami-Mate/blob/main/assets/images/2.png)  
 
 2. **Symptom Analysis**  
-   ![Symptom Analysis](./images/symptom_analysis.png)  
+   ![Symptom Analysis](https://github.com/jyotsna030/Mami-Mate/blob/main/assets/images/3.png)  
 
 3. **Medication Reminder**  
-   ![Medication Reminder](./images/medication_reminder.png)  
+   ![Medication Reminder](https://github.com/jyotsna030/Mami-Mate/blob/main/assets/images/4.png) 
 
 4. **Partner Linking**  
-   ![Partner Linking](./images/partner_linking.png)  
+   ![Partner Linking](https://github.com/jyotsna030/Mami-Mate/blob/main/assets/images/5.png)  
   
 
 ---
