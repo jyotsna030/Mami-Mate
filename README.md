@@ -1,7 +1,7 @@
 # **MamiMate**  
 > *A compassionate companion for a seamless and supported pregnancy journey.*  
 
-![MamiMate Banner](./images/banner.png)  
+![MamiMate Banner](./images/1.png)  
 *Empowering expecting mothers and their caregivers with cutting-edge features and seamless connectivity.*  
 
 ---
