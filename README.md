@@ -50,9 +50,12 @@ Below are some visuals showcasing MamiMate’s interface and functionality:
 4. **Partner Linking**  
    ![Partner Linking](https://github.com/jyotsna030/Mami-Mate/blob/main/assets/images/5.png)
 
-5. **Working Demo**
-    ![Demo Link](https://youtu.be/rYRAOQJTUCE?si=Y9pobikV_nXJs5zN)
-  
+
+---
+
+### **Demo Video**  
+
+[Watch the Demo Video](https://youtu.be/rYRAOQJTUCE?si=Y9pobikV_nXJs5zN)  
 
 ---
 
