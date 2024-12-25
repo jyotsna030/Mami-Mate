@@ -1,7 +1,3 @@
-Here’s a detailed and professional **README.md** structure for your **MamiMate** GitHub repository. This structure will showcase the app's purpose, features, technical details, and setup instructions. It also includes placeholders for images, which you can update once your screenshots or visuals are ready.
-
----
-
 # **MamiMate**  
 > *A compassionate companion for a seamless and supported pregnancy journey.*  
 
