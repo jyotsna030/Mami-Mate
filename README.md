@@ -68,7 +68,7 @@ MamiMate leverages modern tools and technologies to deliver a smooth user experi
 - **Communication:** Twilio API for SOS messaging
 
 - **Flow Chart**  
-   ![Flow Chart](https://github.com/jyotsna030/Mami-Mate/blob/main/assets/images/2.png) 
+   ![Flow Chart](https://github.com/jyotsna030/Mami-Mate/blob/main/assets/images/Mami-Mate%20FlowChart.png)
 
 ---
 
