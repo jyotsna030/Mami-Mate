@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639597265576",
+    "project_id": "mamimate-7fa1f",
+    "storage_bucket": "mamimate-7fa1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639597265576:android:b9c048fa00334694a0789d",
+        "android_client_info": {
+          "package_name": "com.mycompany.mamimate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIOoiJV5iT9HHsMhwwShGvPs9N9nLP7Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
