@@ -65,7 +65,10 @@ MamiMate leverages modern tools and technologies to deliver a smooth user experi
 - **Backend & Services:** Firebase  
 - **AI Integration:** Python-based AI Model API  
 - **Push Notifications:** Firebase Cloud Messaging (FCM)  
-- **Communication:** Twilio API for SOS messaging  
+- **Communication:** Twilio API for SOS messaging
+
+- **Flow Chart**  
+   ![Flow Chart](https://github.com/jyotsna030/Mami-Mate/blob/main/assets/images/2.png) 
 
 ---
 
